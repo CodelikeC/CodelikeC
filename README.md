@@ -1,6 +1,11 @@
-<h1 align="center">Hi 👋, I'm Nguyen Duc Tri</h1>
-<h3 align="center">A passionate developer in Vietnam</h3>
-
+<h1 align="center"> I'm Nguyen Duc Tri</h1>
+<h3 align="center">A passionate Engineer in Vietnam</h3>
+<h4 align="center">A 21 years old open-source Founder </h4>
+<h4 align="center">Adaptive AI </h4>
+<h4 align="center">Adaptive OS </h4>
+<h4 align="center">IBCS </h4>
+<h4 align="center">DIP </h4>
+<h4 align="center">AIForDriver </h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codelikec&label=Profile%20views&color=0e75b6&style=flat" alt="codelikec" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codelikec" alt="codelikec" /></a> </p>
