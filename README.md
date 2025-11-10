@@ -45,6 +45,7 @@
 | **4/2025** | **Adaptive AI** | Initiated research on self-adaptive architecture & meta-learning core |
 | **5/2025** | **Adaptive OS** | Designed kernel-level adaptive system & plugin infrastructure |
 | **7/2025** | **IBCS** | Built the Introspective Behavioral Compiler System (Language + Runtime) |
+| **8/2025** | **DIP** | Built the Driver Introspective Proxy (Kernel + Runtime + adaptive AI prototype) |
 | **9/2025 (Q3)** | **AIForDriver** | Applied adaptive models in real-time autonomous systems |
 | **11/2025 (Q4)** | **AIC Global Phase** | Foundation of *Adaptive Intelligence Circle* as an ethical AI movement |
 | **Future** | **Adaptive Intelligence Network (AIN)** | Decentralized, ethical intelligence ecosystem beyond OS level |
