@@ -69,7 +69,7 @@
 
 | Title | Platform | Description |
 |--------|------------|-------------|
-| **From One Genius to Another** | 🎧 *Apple Podcast Series by Dr.Tamara Nall* | A deep dive into the vision, ethics, and mission behind AIC |
+| **The AI Operating System is teaching technology to think ethically** | 🎧 *Apple Podcast Series by Dr.Tamara Nall* | A deep dive into the vision, ethics, and mission behind AIC |
 | **From Open Source to Adaptive Systems** | 🗣️ *Community Talk* | Sharing how zero-capital innovation can shape ethical technology |
 | **Building Adaptive OS for Humanity** | 📺 *FutureTech Asia 2026 (planned)* | Bridging AI, security, and humanistic engineering principles |
 
