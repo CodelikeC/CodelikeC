@@ -27,6 +27,7 @@
   - **Driver Introspective Proxy** - Kernel space intelligence. 
 - 🌍 Based in Vietnam • Leading a human-centered revolution in intelligence
 - 🎯 **MY ORCID** : https://orcid.org/0009-0007-8545-0420
+- 🎯 **Open Collective** : https://opencollective.com/dashboard/nguyen-duc-tri
 
 ---
 
