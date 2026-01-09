@@ -29,6 +29,8 @@
 - 🎯 **MY ORCID** : https://orcid.org/0009-0007-8545-0420
 - 🎯 **Open Collective (Nguyen Duc Tri)** : https://opencollective.com/dashboard/nguyen-duc-tri
 - 🎯 **Open Collective (AIC)**: https://opencollective.com/adaptive-intelligence-circle#category-CONNECT
+- **GitLab**: https://gitlab.com/users/CodelikeC
+- **CodeBerg**: https://codeberg.org/NguyenDucTri_2004-AIC
 
 ---
 
