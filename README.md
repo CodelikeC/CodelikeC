@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="assets\org.png" width="240"/><br>
+  <img src="assets\org.png" width="120"/><br>
   Nguyen Duc Tri
 </h1>
 
