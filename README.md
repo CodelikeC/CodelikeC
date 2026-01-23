@@ -1,7 +1,12 @@
 <h1 align="center">
-  <img src="assets\org.png" width="120"/><br>
+  <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+    <img src="assets/org.png" width="120"/>
+    <img src="assets/HumanMeaningNetwork.png" width="120"/>
+  </div>
+  <br>
   Nguyen Duc Tri
 </h1>
+
 
 <h3 align="center">Founder of Adaptive Intelligence Circle (AIC) and Human Meaning Network (HMN) </h3>
 <h4 align="center">Lead Architect of Adaptive AI • Adaptive OS • IBCS • DIP • AIForDriver</h4>
