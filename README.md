@@ -1,10 +1,10 @@
 <h1 align="center">
-  <img src="C:\Users\ndtri\Downloads\org.png" width="120"/><br>
+  <img src="assets\org.png" width="240"/><br>
   Nguyen Duc Tri
 </h1>
 
-<h3 align="center">Founder of Adaptive Intelligence Circle (AIC)</h3>
-<h4 align="center">Architect of Adaptive AI • Adaptive OS • IBCS • DIP • AIForDriver</h4>
+<h3 align="center">Founder of Adaptive Intelligence Circle (AIC) and Human Meaning Network (HMN) </h3>
+<h4 align="center">Lead Architect of Adaptive AI • Adaptive OS • IBCS • DIP • AIForDriver</h4>
 
 <p align="center">
   <a href="https://github.com/CodelikeC" target="_blank">
@@ -25,7 +25,10 @@
   - **IBCS** — introspective behavioral compiler system  
   - **AIForDriver** — real-world adaptive intelligence  
   - **Driver Introspective Proxy** - Kernel space intelligence. 
+  - **AIC-Agents/EdgeOS/Earth/DePin/Orchestration/AeroSpace**
+
 - 🌍 Based in Vietnam • Leading a human-centered revolution in intelligence
+
 - 🎯 **MY ORCID** : https://orcid.org/0009-0007-8545-0420
 - 🎯 **Open Collective (Nguyen Duc Tri)** : https://opencollective.com/dashboard/nguyen-duc-tri
 - 🎯 **Open Collective (AIC)**: https://opencollective.com/adaptive-intelligence-circle#category-CONNECT
@@ -53,7 +56,8 @@
 | **8/2025** | **DIP** | Built the Driver Introspective Proxy (Kernel + Runtime + adaptive AI prototype) |
 | **9/2025 (Q3)** | **AIForDriver** | Applied adaptive models in real-time autonomous systems |
 | **11/2025 (Q4)** | **AIC Global Phase** | Foundation of *Adaptive Intelligence Circle* as an ethical AI movement |
-| **Future** | **Adaptive Intelligence Network (AIN)** | Decentralized, ethical intelligence ecosystem beyond OS level |
+| **1/2026** | **Adaptive Intelligence Network (AIN)** | Decentralized, ethical intelligence ecosystem beyond OS level |
+| **1/2026 - Future** | **Human Meaning Network (HMN)** | decentralized, non-profit network based on AIN – designed to help people discover, share, and maintain their personal meaning in a post-scarcity context |
 
 ---
 
@@ -74,7 +78,7 @@
 
 | Title | Platform | Description |
 |--------|------------|-------------|
-| **The AI Operating System is teaching technology to think ethically** | 🎧 *Apple Podcast Series by Dr.Tamara Nall* | A deep dive into the vision, ethics, and mission behind AIC |
+| **This AI Operating System is teaching technology to think ethically** | 🎧 *Apple Podcast Series by Dr.Tamara Nall* | A deep dive into the vision, ethics, and mission behind AIC |
 | **From Open Source to Adaptive Systems** | 🗣️ *Community Talk* | Sharing how zero-capital innovation can shape ethical technology |
 | **Building Adaptive OS for Humanity** | 📺 *FutureTech Asia 2026 (planned)* | Bridging AI, security, and humanistic engineering principles |
 
