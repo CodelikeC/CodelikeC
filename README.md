@@ -63,7 +63,7 @@
 | **9/2025 (Q3)** | **AIForDriver** | Applied adaptive models in real-time autonomous systems |
 | **11/2025 (Q4)** | **AIC Global Phase** | Foundation of *Adaptive Intelligence Circle* as an ethical AI movement |
 | **1/2026** | **Adaptive Intelligence Network (AIN)** | Decentralized, ethical intelligence ecosystem beyond OS level |
-| **1/2026 - Future** | **Human Meaning Network (HMN)** | decentralized, non-profit network based on AIN – designed to help people discover, share, and maintain their personal meaning in a post-scarcity context |
+| **1/2026 - Future** | **Human Meaning Network (HMN)** | Decentralized, non-profit network based on AIN – designed to help people discover, share, and maintain their personal meaning in a post-scarcity context |
 
 ---
 
