@@ -31,7 +31,9 @@
   - **IBCS** — introspective behavioral compiler system  
   - **AIForDriver** — real-world adaptive intelligence  
   - **Driver Introspective Proxy** - Kernel space intelligence. 
+  - **AICP** - Protocol for Adaptive Intelligence Circle.
   - **AIC-Agents/EdgeOS/Earth/DePin/Orchestration/AeroSpace**
+  - **AIC-Governance/Education/Energy/Creative/Sports/Quantum/Heath**
 
 - 🌍 Based in Vietnam • Leading a human-centered revolution in intelligence
 
