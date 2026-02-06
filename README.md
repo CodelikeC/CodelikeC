@@ -42,6 +42,8 @@
 - 🎯 **Open Collective (AIC)**: https://opencollective.com/adaptive-intelligence-circle#category-CONNECT
 - **GitLab**: https://gitlab.com/users/CodelikeC
 - **CodeBerg**: https://codeberg.org/NguyenDucTri_2004-AIC
+- **Substack**:https://substack.com/@nguynctr1
+- **Spiderum**: https://spiderum.com/nguoi-dung/TrifanboymarvelDc
 
 ---
 
