@@ -44,6 +44,7 @@
 - **CodeBerg**: https://codeberg.org/NguyenDucTri_2004-AIC
 - **Substack**:https://substack.com/@nguynctr1
 - **Spiderum**: https://spiderum.com/nguoi-dung/TrifanboymarvelDc
+- **Website**: https://www.linkedin.com/company/112400906/admin/page-posts/published/
 
 ---
 
