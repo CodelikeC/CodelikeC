@@ -88,6 +88,7 @@
   > We talk about the mission behind AIC : a non-profit open source organization of Ethical AI planetary and decentralized system.
 
 - **[Technical Assessment Candidate]** - [**xAI** (merge with **SpaceX**)]
+
   [July 2025] - [July 2025]
 
   > Advanced to Round 2 in competitive hiring process for Software Engineering and AI Tutor roles. 
