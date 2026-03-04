@@ -70,24 +70,24 @@
 
 ## 🏆 Experience
 
-- **[Project Manager]** – [Open Collective]  
+- **[Project Manager]** – [**Open Collective**]  
   [Dec 2025] – [Present]  
 
   > Managing the AIC project’s funding and community contributions through Open Collective. Overseeing transparency, budgeting, and contributor engagement as part of the ecosystem’s governance.
 
-- **[Open Source Developer]** – [GitHub]  
+- **[Open Source Developer]** – [**GitHub Inc**]  
   [Mar 2024] – [Present]  
 
   > Leading the development and governance of AIC and HMN projects, hosted on GitHub. Responsibilities include designing architecture, managing repositories, coordinating contributors, and ensuring transparency in open-source collaboration.
 
-- **[Guest Speaker]** – [The Leading Niche]  
+- **[Guest Speaker]** – [**The Leading Niche**]  
   [Oct 2025] – [Nov 2025]  
 
   > I join an Apple podcast named LeadWithAI. The host is Dr. Tamara with 25 years of experience in AI platform for business. The podcast was launched in November 2025 on multiple media : YouTube, Apple Podcast, Instagram, LinkedIn,..
 
   > We talk about the mission behind AIC : a non-profit open source organization of Ethical AI planetary and decentralized system.
 
-- **[Technical Assessment Candidate]** - [xAI]
+- **[Technical Assessment Candidate]** - [**xAI** (merge with **SpaceX**)]
   [July 2025] - [July 2025]
 
   > Advanced to Round 2 in competitive hiring process for Software Engineering and AI Tutor roles. 
