@@ -34,6 +34,7 @@
   - **AICP** - Protocol for Adaptive Intelligence Circle.
   - **AIC-Agents/EdgeOS/Earth/DePin/Orchestration/AeroSpace**
   - **AIC-Governance/Education/Energy/Creative/Sports/Quantum/Heath**
+  - **Human Meaning Network**
 
 - 🌍 Based in Vietnam • Leading a human-centered revolution in intelligence
 
@@ -56,6 +57,44 @@
   *“Complexity with purpose is better than simplicity without soul.”*
 
 ---
+
+## 🎓 Education
+
+- **Troy University** – Bachelor’s Program  
+  Joint program with Hanoi University of Science and Technology [2022-2027]  
+  - Focused on Computer Science  
+  - Developed strong foundation in: 
+  > software engineering, AI, distributed systems, etc.
+
+--- 
+
+## 🏆 Experience
+
+- **[Project Manager]** – [Open Collective]  
+  [Dec 2025] – [Present]  
+
+  > Managing the AIC project’s funding and community contributions through Open Collective. Overseeing transparency, budgeting, and contributor engagement as part of the ecosystem’s governance.
+
+- **[Open Source Developer]** – [GitHub]  
+  [Mar 2024] – [Present]  
+
+  > Leading the development and governance of AIC and HMN projects, hosted on GitHub. Responsibilities include designing architecture, managing repositories, coordinating contributors, and ensuring transparency in open-source collaboration.
+
+- **[Guest Speaker]** – [The Leading Niche]  
+  [Oct 2025] – [Nov 2025]  
+
+  > I join an Apple podcast named LeadWithAI. The host is Dr. Tamara with 25 years of experience in AI platform for business. The podcast was launched in November 2025 on multiple media : YouTube, Apple Podcast, Instagram, LinkedIn,..
+
+  > We talk about the mission behind AIC : a non-profit open source organization of Ethical AI planetary and decentralized system.
+
+- **[Technical Assessment Candidate]** - [xAI]
+  [July 2025] - [July 2025]
+
+  > Advanced to Round 2 in competitive hiring process for Software Engineering and AI Tutor roles. 
+  > Demonstrated expertise in programming, AI system. Attached Data Structure and problem solving. 
+  > Gained valuable insights into frontier AI research priorities and team dynamics at a leading AI organization.
+
+--- 
 
 ## 🕰️ Mission Timeline
 
