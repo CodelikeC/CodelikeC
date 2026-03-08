@@ -38,15 +38,16 @@
 
 - 🌍 Based in Vietnam • Leading a human-centered revolution in intelligence
 
-- 🎯 **MY ORCID** : https://orcid.org/0009-0007-8545-0420
-- 🎯 **Open Collective (Nguyen Duc Tri)** : https://opencollective.com/dashboard/nguyen-duc-tri
-- 🎯 **Open Collective (AIC)**: https://opencollective.com/adaptive-intelligence-circle#category-CONNECT
-- **GitLab**: https://gitlab.com/users/CodelikeC
-- **CodeBerg**: https://codeberg.org/NguyenDucTri_2004-AIC
+- 🎯 **MY ORCID** : [NguyenDucTri](https://orcid.org/0009-0007-8545-0420)
+- 🎯 **Open Collective (Nguyen Duc Tri)** : [OpenCollective/NguyenDucTri](https://opencollective.com/dashboard/nguyen-duc-tri)
+- 🎯 **Open Collective (AIC)**: [OpenCollective/AIC](https://opencollective.com/adaptive-intelligence-circle#category-CONNECT)
+- **GitLab**: [GitLab/CodelikeC](https://gitlab.com/users/CodelikeC)
+- **CodeBerg**: [NguyenDuctri_AIC]
+(https://codeberg.org/NguyenDucTri_2004-AIC)
 - **Substack**:https://substack.com/@nguynctr1
-- **Spiderum**: https://spiderum.com/nguoi-dung/TrifanboymarvelDc
-- **Website**: https://www.linkedin.com/company/112400906/admin/page-posts/published/
-
+- **Spiderum**: [Spiderum/NguyenDucTriAIC/HMN](https://spiderum.com/nguoi-dung/TrifanboymarvelDc)
+- **Website**: [Linkedin/AdaptiveIntelligenceCircle](https://www.linkedin.com/company/112400906/admin/page-posts/published/)
+- **Youtube**: [@AdaptiveIntelligenceCircle](https://www.youtube.com/channel/UCFqAmuzpH0mrENjoAfGAj2A)
 ---
 
 ## 🧭 Vision & Philosophy
