@@ -42,8 +42,7 @@
 - 🎯 **Open Collective (Nguyen Duc Tri)** : [OpenCollective/NguyenDucTri](https://opencollective.com/dashboard/nguyen-duc-tri)
 - 🎯 **Open Collective (AIC)**: [OpenCollective/AIC](https://opencollective.com/adaptive-intelligence-circle#category-CONNECT)
 - **GitLab**: [GitLab/CodelikeC](https://gitlab.com/users/CodelikeC)
-- **CodeBerg**: [NguyenDuctri_AIC]
-(https://codeberg.org/NguyenDucTri_2004-AIC)
+- **CodeBerg**: [NguyenDuctri_AIC](https://codeberg.org/NguyenDucTri_2004-AIC)
 - **Substack**:https://substack.com/@nguynctr1
 - **Spiderum**: [Spiderum/NguyenDucTriAIC/HMN](https://spiderum.com/nguoi-dung/TrifanboymarvelDc)
 - **Website**: [Linkedin/AdaptiveIntelligenceCircle](https://www.linkedin.com/company/112400906/admin/page-posts/published/)
