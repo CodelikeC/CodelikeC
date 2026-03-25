@@ -130,7 +130,7 @@
 | Title | Platform | Description |
 |--------|------------|-------------|
 | **This AI Operating System is teaching technology to think ethically** | 🎧 *Apple Podcast Series by Dr.Tamara Nall* | A deep dive into the vision, ethics, and mission behind AIC |
-| **UNITAR conversation** | 🗣️ *Online Meeting* | Sharing how zero-capital innovation can shape ethical technology |
+| **...** | 🗣️ *Online Meeting* | Sharing how zero-capital innovation can shape ethical technology |
 | **Building Adaptive OS for Humanity** | 📺 *FutureTech Asia 2026 (planned)* | Bridging AI, security, and humanistic engineering principles |
 
 ---
