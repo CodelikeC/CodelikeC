@@ -96,6 +96,7 @@
   > Gained valuable insights into frontier AI research priorities and team dynamics at a leading AI organization.
 
 - **[Expert Interviewee]** - [**United Nation**]
+
   [March 2026] - [present]
 
   > Participated in a strategic interview session hosted by UNITAR, sharing insights as the Founder of Adaptive Intelligence Circle (AIC). Contributed perspectives on AI innovation, ethical leadership, and youth empowerment in global digital transformation. The session aimed to explore collaborative opportunities between UNITAR and emerging tech leaders.
