@@ -95,6 +95,11 @@
   > Demonstrated expertise in programming, AI system. Attached Data Structure and problem solving. 
   > Gained valuable insights into frontier AI research priorities and team dynamics at a leading AI organization.
 
+- **[Expert Interviewee]** - [**United Nation**]
+  [March 2026] - [present]
+
+  > Participated in a strategic interview session hosted by UNITAR, sharing insights as the Founder of Adaptive Intelligence Circle (AIC). Contributed perspectives on AI innovation, ethical leadership, and youth empowerment in global digital transformation. The session aimed to explore collaborative opportunities between UNITAR and emerging tech leaders.
+
 --- 
 
 ## 🕰️ Mission Timeline
@@ -130,7 +135,7 @@
 | Title | Platform | Description |
 |--------|------------|-------------|
 | **This AI Operating System is teaching technology to think ethically** | 🎧 *Apple Podcast Series by Dr.Tamara Nall* | A deep dive into the vision, ethics, and mission behind AIC |
-| **...** | 🗣️ *Online Meeting* | Sharing how zero-capital innovation can shape ethical technology |
+| **UNITAR- United Nations Institute for Training and Research** | 🗣️ *Strategic Interview Session* | Sharing how zero-capital innovation can shape ethical technology. Contributed perspectives on AI innovation, ethical leadership, and youth empowerment in global digital transformation. The session aimed to explore collaborative opportunities between UNITAR and emerging tech leaders. |
 | **Building Adaptive OS for Humanity** | 📺 *FutureTech Asia 2026 (planned)* | Bridging AI, security, and humanistic engineering principles |
 
 ---
