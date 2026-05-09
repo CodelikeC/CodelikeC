@@ -9,8 +9,8 @@
 </h1>
 
 
-<h3 align="center">Founder of Adaptive Intelligence Circle (AIC) and Human Meaning Network (HMN) </h3>
-<h4 align="center">Lead Architect of Adaptive AI • Adaptive OS • IBCS • DIP • AIForDriver</h4>
+<h3 align="center">Founder/Chief Architect of Adaptive Intelligence Circle (AIC) and Human Meaning Network (HMN) </h3>
+<h4 align="center">Represent the ECP philosophy: Ethical Civilizational Protocol </h4>
 
 <p align="center">
   <a href="https://github.com/CodelikeC" target="_blank">
@@ -25,7 +25,7 @@
 
 - 🎯 **Founder** of [Adaptive Intelligence Circle (AIC)](https://github.com/AdaptiveIntelligenceCircle) — an open, global, and ethical intelligence initiative.
 - 🧠 Research focus: **Adaptive AI Systems**, **Kernel-level Security**, **Distributed Reasoning Frameworks**.
-- 🧩 Creator of:
+- 🧩 Creator of ~ 40 repositories: 
   - **Adaptive AI** — self-learning, self-defensive intelligence engine  
   - **Adaptive OS** — decentralized protection and orchestration system  
   - **IBCS** — introspective behavioral compiler system  
@@ -34,7 +34,7 @@
   - **AICP** - Protocol for Adaptive Intelligence Circle.
   - **AIC-Agents/EdgeOS/Earth/DePin/Orchestration/AeroSpace**
   - **AIC-Governance/Education/Energy/Creative/Sports/Quantum/Heath**
-  - **Human Meaning Network**
+  - **Human Meaning Network** and **other significant projects**
 
 - 🌍 Based in Vietnam • Leading a human-centered revolution in intelligence
 
@@ -95,11 +95,19 @@
   > Demonstrated expertise in programming, AI system. Attached Data Structure and problem solving. 
   > Gained valuable insights into frontier AI research priorities and team dynamics at a leading AI organization.
 
-- **[Expert Interviewee]** - [**United Nation**]
+- **[Expert Interviewee]** - [**United Nations**]
 
   [March 2026] - [present]
 
   > Participated in a strategic interview session hosted by UNITAR, sharing insights as the Founder of Adaptive Intelligence Circle (AIC). Contributed perspectives on AI innovation, ethical leadership, and youth empowerment in global digital transformation. The session aimed to explore collaborative opportunities between UNITAR and emerging tech leaders.
+
+- **[Freelancer AI engineer]** - [**Invisible Technologies**]
+  
+  [May 2026] - [present]
+
+  > Selected as a member of the Invisible Marketplace after completing assessment.  
+  > Engaged in freelance opportunities matching skills in [AI research / writing / analysis / etc.].  
+  >Contributing to projects with focus on ethics, narrative building, or other strengths.  
 
 --- 
 
