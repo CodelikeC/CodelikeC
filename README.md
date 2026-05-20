@@ -101,7 +101,7 @@
 
   > Participated in a strategic interview session hosted by UNITAR, sharing insights as the Founder of Adaptive Intelligence Circle (AIC). Contributed perspectives on AI innovation, ethical leadership, and youth empowerment in global digital transformation. The session aimed to explore collaborative opportunities between UNITAR and emerging tech leaders.
 
-- **[Freelancer AI engineer]** - [**Invisible Technologies**]
+- **[Member of Expert Marketplace AI engineer]** - [**Invisible Technologies**]
   
   [May 2026] - [end]
 
