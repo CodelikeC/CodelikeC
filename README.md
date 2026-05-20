@@ -103,7 +103,7 @@
 
 - **[Freelancer AI engineer]** - [**Invisible Technologies**]
   
-  [May 2026] - [present]
+  [May 2026] - [end]
 
   > Selected as a member of the Invisible Marketplace after completing assessment.  
   > Engaged in freelance opportunities matching skills in [AI research / writing / analysis / etc.].  
