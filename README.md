@@ -44,7 +44,6 @@
 - **GitLab**: [GitLab/CodelikeC](https://gitlab.com/users/CodelikeC)
 - **CodeBerg**: [NguyenDuctri_AIC](https://codeberg.org/NguyenDucTri_2004-AIC)
 - **Substack**:https://substack.com/@nguynctr1
-- **Spiderum**: [Spiderum/NguyenDucTriAIC/HMN](https://spiderum.com/nguoi-dung/TrifanboymarvelDc)
 - **Website**: [Linkedin/AdaptiveIntelligenceCircle](https://www.linkedin.com/company/112400906/admin/page-posts/published/)
 - **Youtube**: [@AdaptiveIntelligenceCircle](https://www.youtube.com/channel/UCFqAmuzpH0mrENjoAfGAj2A)
 ---
@@ -95,7 +94,7 @@
   > Demonstrated expertise in programming, AI system. Attached Data Structure and problem solving. 
   > Gained valuable insights into frontier AI research priorities and team dynamics at a leading AI organization.
 
-- **[Expert Interviewee]** - [**United Nations**]
+- **[High-Level Informal Consultation]** - [**United Nations**]
 
   [March 2026] - [present]
 
@@ -109,6 +108,11 @@
   > Engaged in freelance opportunities matching skills in [AI research / writing / analysis / etc.].  
   >Contributing to projects with focus on ethics, narrative building, or other strengths.  
 
+- **[AI internship]** - [**FlyRank AI**]
+
+  [June 2026] - [present]
+
+  > Currently interning at FlyRank AI as an AI intern, focusing on General AI Fluency.
 --- 
 
 ## 🕰️ Mission Timeline
