@@ -195,6 +195,14 @@
 
 - I am committed to **the highest possible transparency** and will not accept any conditional sponsorships.
 
+**Personal Sponsorship Levels:**
+
+- **Supporter** — $5 USD/month: Public thank you in personal README.
+
+- **Builder** — $10–$25 USD/month: Name on the "Personal Supporters" list + early access to some internal documents.
+
+- **Steward** — $50+ USD/month: Name on the "Sustained Personal Supporters" list + priority personal feedback + invitation to the core contributor group (if desired).
+
 If you believe in AIC's mission and would like to directly support those who are carrying it out, I would be very grateful.
 
 All donations are publicly disclosed and acknowledged.
