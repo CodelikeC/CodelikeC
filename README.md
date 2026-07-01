@@ -183,6 +183,26 @@
 
 ---
 
+## Sponsors for Nguyen Duc Tri (In Future)
+
+**Regarding this sponsorship:**
+
+- This is a **personal** support channel for me (Nguyen Duc Tri).
+
+- All AIC project activities are managed transparently through Open Collective and will soon have Fiscal Host.
+
+- The funds received will be used to support living expenses, personal infrastructure, and a portion of AIC's development (servers, domains, tools...).
+
+- I am committed to **the highest possible transparency** and will not accept any conditional sponsorships.
+
+If you believe in AIC's mission and would like to directly support those who are carrying it out, I would be very grateful.
+
+All donations are publicly disclosed and acknowledged.
+
+Thank you for your support.
+
+---
+
 <p align="center">
   <i>“The revolution of intelligence begins not from machines — but from the human behind them.”</i><br>
   <b>— Nguyen Duc Tri, Founder of AIC</b>
