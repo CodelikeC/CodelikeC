@@ -74,6 +74,16 @@
 
   > Managing the AIC project’s funding and community contributions through Open Collective. Overseeing transparency, budgeting, and contributor engagement as part of the ecosystem’s governance.
 
+- **[techUP Fellowship]** - [**The IO Foundation**] 
+
+  [July 2026] - [present]
+
+  > + Selected as a Fellow for the TechUp program in collaboration with IETF 126.
+ 
+  > + Representing Adaptive Intelligence Circle (AIC) to engage with global standards development in internet protocols, ethical AI governance, and decentralized systems.
+ 
+  > + Contributing perspectives from the Global South on building trustworthy, human-centered digital infrastructure
+
 - **[Open Source Developer]** – [**GitHub Inc**]  
   [Mar 2024] – [Present]  
 
