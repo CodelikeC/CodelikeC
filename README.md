@@ -11,6 +11,7 @@
 
 <h3 align="center">Founder/Chief Architect of Adaptive Intelligence Circle (AIC) and Human Meaning Network (HMN) </h3>
 <h4 align="center">Represent the ECP philosophy: Ethical Civilizational Protocol </h4>
+<h4 align="center"> Global South and EU (Estonia) Independent Non-Profit Organization </h4>
 
 <p align="center">
   <a href="https://github.com/CodelikeC" target="_blank">
@@ -74,7 +75,7 @@
 
   > Managing the AIC project’s funding and community contributions through Open Collective. Overseeing transparency, budgeting, and contributor engagement as part of the ecosystem’s governance.
 
-- **[techUP Fellowship]** - [**The IO Foundation**] 
+- **[TechUP Fellowship]** - [**The IO Foundation**] 
 
   [July 2026] - [present]
 
