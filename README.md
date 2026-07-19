@@ -14,6 +14,11 @@
 <h4 align="center"> Global South and EU (Estonia) Independent Non-Profit Organization </h4>
 
 <p align="center">
+  <img src="assets/Vietnam.jpg" alt="Vietnam Map" width="250"/>
+  <img src="assets/Estonia.jpg" alt="Estonia Map" width="250"/>
+</p>
+
+<p align="center">
   <a href="https://github.com/CodelikeC" target="_blank">
     <img src="https://komarev.com/ghpvc/?username=CodelikeC&label=Profile%20Views&color=blue&style=flat" alt="Profile views"/>
   </a>
@@ -21,10 +26,6 @@
 
 ---
 
-## Location
-
-![Vietnam Map](https://www.britannica.com/place/Vietnam)
-![Estonia Map](https://www.britannica.com/place/Estonia)
 
 ## 🌐 About Me
 > *“Technology should not only adapt to humans — it should evolve with human ethics and responsibility.”*
