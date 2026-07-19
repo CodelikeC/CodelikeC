@@ -21,6 +21,11 @@
 
 ---
 
+## Location
+
+![Vietnam Map](https://www.britannica.com/place/Vietnam)
+![Estonia Map](https://www.britannica.com/place/Estonia)
+
 ## 🌐 About Me
 > *“Technology should not only adapt to humans — it should evolve with human ethics and responsibility.”*
 
@@ -37,7 +42,7 @@
   - **AIC-Governance/Education/Energy/Creative/Sports/Quantum/Heath**
   - **Human Meaning Network** and **other significant projects**
 
-- 🌍 Based in Vietnam • Leading a human-centered revolution in intelligence
+- 🌍 Started at 20 years 8 months 10 days by Vietnamese independent Founder • Leading a human-centered revolution in intelligence
 
 - 🎯 **MY ORCID** : [NguyenDucTri](https://orcid.org/0009-0007-8545-0420)
 - 🎯 **Open Collective (Nguyen Duc Tri)** : [OpenCollective/NguyenDucTri](https://opencollective.com/dashboard/nguyen-duc-tri)
