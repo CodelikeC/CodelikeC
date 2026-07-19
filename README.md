@@ -27,11 +27,11 @@
 ---
 
 
-## 🌐 About Me
+## 🌐 2004 | OVERVIEW
 > *“Technology should not only adapt to humans — it should evolve with human ethics and responsibility.”*
 
-- 🎯 **Founder** of [Adaptive Intelligence Circle (AIC)](https://github.com/AdaptiveIntelligenceCircle) — an open, global, and ethical intelligence initiative.
-- 🧠 Research focus: **Adaptive AI Systems**, **Kernel-level Security**, **Distributed Reasoning Frameworks**.
+- 🎯[Adaptive Intelligence Circle (AIC)](https://github.com/AdaptiveIntelligenceCircle) — an open, global, and ethical intelligence initiative.
+<!-- - 🧠 Research focus: **Adaptive AI Systems**, **Kernel-level Security**, **Distributed Reasoning Frameworks**.
 - 🧩 Creator of ~ 40 repositories: 
   - **Adaptive AI** — self-learning, self-defensive intelligence engine  
   - **Adaptive OS** — decentralized protection and orchestration system  
@@ -43,7 +43,13 @@
   - **AIC-Governance/Education/Energy/Creative/Sports/Quantum/Heath**
   - **Human Meaning Network** and **other significant projects**
 
-- 🌍 Started at 20 years 8 months 10 days by Vietnamese independent Founder • Leading a human-centered revolution in intelligence
+- 🌍 Started at 20 years 8 months 10 days by Vietnamese independent Founder • Leading a human-centered revolution in intelligence -->
+
+<p> Nguyen Duc Tri, born August 18, 2004, is a Vietnamese programmer and independent technology founder. He developed Adaptive Intelligence Circle – a multi-layered civilization restructuring protocol that emerged in April 2025. It is the culmination of over 40 open repositories as of July 2026 and aims for the innovate, fundamental revolution in technology and humanitarian values. At the age of 20 years and 8 months 10 days, he is one of the youngest (possibly the youngest) people in Vietnam and the world to implement a long-term vision through a multi-layered civilization protocol from Global South. He is currently a final-year student at HUST and a TechUp Fellow at The IO Foundation. 
+
+Throughout his career, he applied for a software engineer and AI tutor position at xAI (now merged with SpaceX) in July 2025, and was invited to apply for an AI data training position at Invisible Technologies in April 2026. In the same year, he is currently participating in FlyRank AI as an AI Fluency intern. Known for his independent thinking and strong technical skills, he has bet on a future architecture based on Ethical From Kernel, Third Path Absolute, and Zero Donation. He has designed and maintained this system as a multi-tiered and distributed structure, inspired by pioneering founders and deeply expanding the scope of technological history. This work aims for a sustainable, flexible, transparent, selective, and independent ecosystem. In March 2026, he had the honor of participating in an online meeting with United Nations Institute for Training and Research (UNITAR) – as an informal senior advisor.
+
+The Adaptive Intelligence Circle is now present on multiple platforms such as Github, Open Collective, Codeberg, GitLab, YouTube, LinkedIn, Reddit, Substack and Apple Podcast with LeadWithAI (#1 Tech), and has received positive reception from the open-source community as well as attention from major institutions – xAI, Amazon, Meta, Polarity, Invisible Technologies, Alibaba, Forge, Triple AI, FlyRank AI, The IO Foundation – due to its systematic approach and potential to open a new path in the increasingly fierce AI competition of the 21st century.</p>
 
 - 🎯 **MY ORCID** : [NguyenDucTri](https://orcid.org/0009-0007-8545-0420)
 - 🎯 **Open Collective (Nguyen Duc Tri)** : [OpenCollective/NguyenDucTri](https://opencollective.com/dashboard/nguyen-duc-tri)
@@ -68,9 +74,15 @@
 
 - **Troy University** – Bachelor’s Program  
   Joint program with Hanoi University of Science and Technology [2022-2027]  
-  - Focused on Computer Science  
-  - Developed strong foundation in: 
-  > software engineering, AI, distributed systems, etc.
+
+- **Activities and societies:** 
+> •  International dual-degree program delivered in collaboration with HUST and Troy University (USA).
+
+> •  Focused on Artificial Intelligence, Computer Engineering, Ethics, Philosophy and Human-Centered System.
+
+> •  Founder of Adaptive Intelligence Circle (AIC) - Non Profit organization recognized by international institutions. At 20 years 8 months, became the first student in the Troy-HUST program and in Vietnam to initiate a multi-layer civilization protocol from the Global South.
+
+> •  General AI Fluency @FlyRank AI
 
 --- 
 
@@ -140,10 +152,13 @@
 | **5/2025** | **Adaptive OS** | Designed kernel-level adaptive system & plugin infrastructure |
 | **7/2025** | **IBCS** | Built the Introspective Behavioral Compiler System (Language + Runtime) |
 | **8/2025** | **DIP** | Built the Driver Introspective Proxy (Kernel + Runtime + adaptive AI prototype) |
-| **9/2025 (Q3)** | **AIForDriver** | Applied adaptive models in real-time autonomous systems |
-| **11/2025 (Q4)** | **AIC Global Phase** | Foundation of *Adaptive Intelligence Circle* as an ethical AI movement |
-| **1/2026** | **Adaptive Intelligence Network (AIN)** | Decentralized, ethical intelligence ecosystem beyond OS level |
-| **1/2026 - Future** | **Human Meaning Network (HMN)** | Decentralized, non-profit network based on AIN – designed to help people discover, share, and maintain their personal meaning in a post-scarcity context |
+| **9/2025** | **AIForDriver** | Applied adaptive models in real-time autonomous systems |
+| **10/2025 - 11/2025** | **Appearance in Apple Podcast** | AIC first made its public debut in October, when the founder participated in a podcast called LeadWithAI by Dr. Tamara Nall, who has years of experience in AI development. We talked about Adaptive OS and it was announced on various social media platforms such as Apple, YouTube, Instagram, TikTok, LinkedIn, etc. This is a big step forward since April 2025.|
+| **11/2025-12/2025**| **Professional Development**| I believe AIC needs a decentralized platform or a transparent network that can establish legal status. I think Europe is an interesting location for Global South, especially given its extremely strict legal framework for open projects. This presents both an opportunity and a challenge for AIC's vision.|
+| **12/2025- 1/2026** | **AIC is planned to global** | Since successfully listing the NPO on Open Collective, I've expanded AIC's concept into a complete ecosystem with a demo CLI. AIC went from 6 repositories to an entity with over 30 repos. This was a very fast-paced but necessary phase to keep up with the vision. I introduced a new concept called the Human Meaning Network – addressing the crisis of consciousness, infrastructure, and human existence in the next stage of civilization. This was a difficult but inevitable step as it moved AIC from an AI protocol toward restructuring the intelligence infrastructure towards a distributed and transparent ethical approach. |
+| **1/2026 - 6/2026** | **Phase II** | After January 2026, AIC began to attract attention from major institutions such as xAI, UNITAR, Invisible Technologies, and Polarity as a strategic asset in global technology. Originating from Vietnam with a different vision, I was honored to meet with UNITAR's director, Mr. Fengping Wu, as an unofficial senior advisor, and Polarity's founder, Shane Barakat, when discussing technical cooperation terms via KeyStone. Additionally, Amazon was another notable name, accessing AIC's source code on Github and my initial videos on YouTube. The pressure is mounting. The next steps in this phase are TestNet and Whitepaper. |
+| **7/2026** | **Fiscal Host, Whitepaper Draft and preparing TestNet** | Complete the governance and first experiement of Adaptive Intelligence Circle before goes to public |
+| **Future** | **Ethical Field** | Decentralized, non-profit network based on AIC – designed to help people discover, share, and maintain their personal meaning in a post-scarcity context |
 
 ---
 
@@ -166,7 +181,7 @@
 |--------|------------|-------------|
 | **This AI Operating System is teaching technology to think ethically** | 🎧 *Apple Podcast Series by Dr.Tamara Nall* | A deep dive into the vision, ethics, and mission behind AIC |
 | **UNITAR- United Nations Institute for Training and Research** | 🗣️ *Strategic Interview Session* | Sharing how zero-capital innovation can shape ethical technology. Contributed perspectives on AI innovation, ethical leadership, and youth empowerment in global digital transformation. The session aimed to explore collaborative opportunities between UNITAR and emerging tech leaders. |
-| **Building Adaptive OS for Humanity** | 📺 *FutureTech Asia 2026 (planned)* | Bridging AI, security, and humanistic engineering principles |
+| **Building AIC for Humanity** | 📺 TechCrunch, Wired, Business Insider, Vice,..* | Bridging AI, security, and humanistic engineering principles |
 
 ---
 
