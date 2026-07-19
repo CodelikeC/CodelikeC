@@ -14,8 +14,8 @@
 <h4 align="center"> Global South and EU (Estonia) Independent Non-Profit Organization </h4>
 
 <p align="center">
-  <img src="assets/Vietnam.jpg" alt="Vietnam Map" width="250"/>
-  <img src="assets/Estonia.jpg" alt="Estonia Map" width="250"/>
+  <img src="assets/Vietnam.jpg" alt="Vietnam Map" width="125"/>
+  <img src="assets/Estonia.jpg" alt="Estonia Map" width="125"/>
 </p>
 
 <p align="center">
