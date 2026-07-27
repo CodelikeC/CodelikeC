@@ -219,13 +219,13 @@ AIC aims for a non-commercial model, financial transparency and non-personal int
 
 ---
 
-## Infrastructure grants. (2026-)
+## Infrastructure grants (optional)
 
 **Regarding this sponsorship:**
 
 - All AIC project activities are managed transparently through Open Collective and will soon have Fiscal Host.
 
-- The funds received will be used to support living expenses, personal infrastructure, and a portion of AIC's development (servers, domains, tools...).
+- The funds received will be used to support living expenses, infrastructure, and a portion of AIC's development (servers, domains, tools...).
 
 - I am committed to **the highest possible transparency** and will not accept any conditional sponsorships.
 
