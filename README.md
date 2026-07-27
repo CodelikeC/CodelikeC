@@ -49,7 +49,11 @@
 
 Throughout his career, he applied for a software engineer and AI tutor position at xAI (now merged with SpaceX) in July 2025, and was invited to apply for an AI data training position at Invisible Technologies in April 2026. In the same year, he is currently participating in FlyRank AI as an AI Fluency intern. Known for his independent thinking and strong technical skills, he has bet on a future architecture based on Ethical From Kernel, Third Path Absolute, and Zero Donation. He has designed and maintained this system as a multi-tiered and distributed structure, inspired by pioneering founders and deeply expanding the scope of technological history. This work aims for a sustainable, flexible, transparent, selective, and independent ecosystem. In March 2026, he had the honor of participating in an online meeting with United Nations Institute for Training and Research (UNITAR) – as an informal senior advisor.
 
-The Adaptive Intelligence Circle is now present on multiple platforms such as Github, Open Collective, Codeberg, GitLab, YouTube, LinkedIn, Reddit, Substack and Apple Podcast with LeadWithAI (#1 Tech), and has received positive reception from the open-source community as well as attention from major institutions – xAI, Amazon, Meta, Polarity, Invisible Technologies, Alibaba, Forge, Triple AI, FlyRank AI, The IO Foundation – due to its systematic approach and potential to open a new path in the increasingly fierce AI competition of the 21st century.</p>
+The Adaptive Intelligence Circle is now present on multiple platforms such as Github, Open Collective, Codeberg, GitLab, YouTube, LinkedIn, Reddit, Substack and Apple Podcast with LeadWithAI (#1 Tech), and has received positive reception from the open-source community as well as attention from major institutions – xAI, Amazon, Meta, Polarity, Invisible Technologies, Alibaba, Forge, Triple AI, FlyRank AI, The IO Foundation – due to its systematic approach and potential to open a new path in the increasingly fierce AI competition of the 21st century.
+
+AIC aims for a non-commercial model, financial transparency and non-personal interest to solve fundamental problems that bring positive meaning on a global scale. </p>
+
+> For a future. For a foundation. For sustainability. For a milestone in history.
 
 - 🎯 **MY ORCID** : [NguyenDucTri](https://orcid.org/0009-0007-8545-0420)
 - 🎯 **Open Collective (Nguyen Duc Tri)** : [OpenCollective/NguyenDucTri](https://opencollective.com/dashboard/nguyen-duc-tri)
@@ -135,7 +139,7 @@ The Adaptive Intelligence Circle is now present on multiple platforms such as Gi
 
   > Selected as a member of the Invisible Marketplace after completing assessment.  
   > Engaged in freelance opportunities matching skills in [AI research / writing / analysis / etc.].  
-  >Contributing to projects with focus on ethics, narrative building, or other strengths.  
+  > Contributing to projects with focus on ethics, narrative building, or other strengths.  
 
 - **[AI internship]** - [**FlyRank AI**]
 
@@ -215,19 +219,15 @@ The Adaptive Intelligence Circle is now present on multiple platforms such as Gi
 
 ---
 
-## Sponsors for Nguyen Duc Tri (In Future)
+## Participation grants (2026-)
 
 **Regarding this sponsorship:**
-
-- This is a **personal** support channel for me (Nguyen Duc Tri).
 
 - All AIC project activities are managed transparently through Open Collective and will soon have Fiscal Host.
 
 - The funds received will be used to support living expenses, personal infrastructure, and a portion of AIC's development (servers, domains, tools...).
 
 - I am committed to **the highest possible transparency** and will not accept any conditional sponsorships.
-
-**Personal Sponsorship Levels:**
 
 - **Supporter** — $5 USD/month: Public thank you in personal README.
 
@@ -237,7 +237,7 @@ The Adaptive Intelligence Circle is now present on multiple platforms such as Gi
 
 If you believe in AIC's mission and would like to directly support those who are carrying it out, I would be very grateful.
 
-All donations are publicly disclosed and acknowledged.
+All grants are publicly disclosed and acknowledged.
 
 Thank you for your support.
 
