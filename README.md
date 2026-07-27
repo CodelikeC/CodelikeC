@@ -219,7 +219,7 @@ AIC aims for a non-commercial model, financial transparency and non-personal int
 
 ---
 
-## Participation grants (2026-)
+## Infrastructure grants. (2026-)
 
 **Regarding this sponsorship:**
 
