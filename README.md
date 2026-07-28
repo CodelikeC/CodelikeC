@@ -4,7 +4,7 @@
 </h1> -->
 
 <h1 align="center">
-  <img src="assets/AIC X IO Foundation.png" style="max-width: 100%; height: auto;"/><br>
+  <img src="assets/AIC x IO Foundation.png" style="max-width: 100%; height: auto;"/><br>
   Nguyen Duc Tri
 </h1>
 
