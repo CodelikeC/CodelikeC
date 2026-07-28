@@ -4,14 +4,15 @@
 </h1> -->
 
 <h1 align="center">
-  <img src="assets/AIC-HMN.png" style="max-width: 100%; height: auto;"/><br>
+  <img src="assets/AIC X IO Foundation.png" style="max-width: 100%; height: auto;"/><br>
   Nguyen Duc Tri
 </h1>
 
 
-<h3 align="center">Founder/Chief Architect of Adaptive Intelligence Circle (AIC) and Human Meaning Network (HMN) </h3>
+<h3 align="center">Founder & Chief Architect @AdaptiveIntelligenceCircle </h3>
 <h4 align="center">Represent the ECP philosophy: Ethical Civilizational Protocol </h4>
 <h4 align="center"> Global South and EU (Estonia) Independent Non-Profit Organization </h4>
+<h4 align="center"> Strategic Partner @TheIOFoundation </h4>
 
 <p align="center">
   <img src="assets/Vietnam.jpg" alt="Vietnam Map" width="125"/>
