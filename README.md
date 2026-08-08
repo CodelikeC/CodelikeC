@@ -12,7 +12,7 @@
 <h3 align="center">Founder & Chief Architect @AdaptiveIntelligenceCircle </h3>
 <h4 align="center">Represent the ECP philosophy: Ethical Civilizational Protocol </h4>
 <h4 align="center"> Global South and EU (Estonia) Independent Non-Profit Organization </h4>
-<h4 align="center"> Strategic Partner @TheIOFoundation </h4>
+<h4 align="center"> Strategic Partner @TheIOFoundation and High-Level Informal Consultation @UNITAR </h4>
 
 <p align="center">
   <img src="assets/Vietnam.jpg" alt="Vietnam Map" width="125"/>
@@ -149,7 +149,7 @@ AIC aims for a non-commercial model, financial transparency and non-personal int
   > Currently interning at FlyRank AI as an AI intern, focusing on General AI Fluency.
 --- 
 
-## 🕰️ Mission Timeline
+## 🕰️ ROAD TO WORLD MEANING INFRASTRUCTURE
 
 | Year | Milestone | Description |
 |------|------------|-------------|
