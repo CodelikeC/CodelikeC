@@ -10,7 +10,7 @@
 
 
 <h3 align="center">Founder & Chief Architect @AdaptiveIntelligenceCircle </h3>
-<h4 align="center">Represent the ECP philosophy: Ethical Civilizational Protocol </h4>
+<h4 align="center">Representative of World Meaning Infrastructure </h4>
 <h4 align="center"> Global South and EU (Estonia) Independent Non-Profit Organization </h4>
 <h4 align="center"> Strategic Partner @TheIOFoundation and High-Level Informal Consultation @UNITAR </h4>
 <h4 align="center"> General AI Fluency @FlyRank AI </h4>
