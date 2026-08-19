@@ -231,11 +231,11 @@ AIC aims for a non-commercial model, financial transparency and non-personal int
 
 - I am committed to **the highest possible transparency** and will not accept any conditional sponsorships.
 
-- **Supporter** — $5 USD/month: Public thank you in personal README.
+- **Supporter** — $5 EUR/month: Public thank you in personal README.
 
-- **Builder** — $10–$25 USD/month: Name on the "Personal Supporters" list + early access to some internal documents.
+- **Builder** — $10–$25 EUR/month: Name on the "Personal Supporters" list + early access to some internal documents.
 
-- **Steward** — $50+ USD/month: Name on the "Sustained Personal Supporters" list + priority personal feedback + invitation to the core contributor group (if desired).
+- **Steward** — $50+ EUR/month: Name on the "Sustained Personal Supporters" list + priority personal feedback + invitation to the core contributor group (if desired).
 
 If you believe in AIC's mission and would like to directly support those who are carrying it out, I would be very grateful.
 
