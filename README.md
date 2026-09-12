@@ -94,7 +94,7 @@ AIC aims for a non-commercial model, financial transparency and non-personal int
 
 <h1 align="center">
   <img src="assets/AIC x IO Foundation.png" style="max-width: 100%; height: auto;"/><br>
-  Nguyen Duc Tri
+      2024 - present
 </h1>
 
 - **[Project Manager]** – [**Open Collective**]  
