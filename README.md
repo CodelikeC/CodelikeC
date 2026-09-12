@@ -2,12 +2,10 @@
   <img src="assets\AIC-HMN.png" width="240" length = "360"/><br>
   Nguyen Duc Tri
 </h1> -->
-
 <h1 align="center">
-  <img src="assets/AIC x IO Foundation.png" style="max-width: 100%; height: auto;"/><br>
-  Nguyen Duc Tri
+  <img src="assets/The-Legends.png" style="max-width: 100%; height: auto;"/><br>
+  Nguyễn Đức Trí (TriNguyenIsReal.AIC)
 </h1>
-
 
 <h3 align="center">Founder & Chief Architect @AdaptiveIntelligenceCircle </h3>
 <h4 align="center">Representative of World Meaning Infrastructure </h4>
@@ -93,6 +91,11 @@ AIC aims for a non-commercial model, financial transparency and non-personal int
 --- 
 
 ## 🏆 Experience
+
+<h1 align="center">
+  <img src="assets/AIC x IO Foundation.png" style="max-width: 100%; height: auto;"/><br>
+  Nguyen Duc Tri
+</h1>
 
 - **[Project Manager]** – [**Open Collective**]  
   [Dec 2025] – [Present]  
