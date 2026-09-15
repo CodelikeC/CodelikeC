@@ -148,9 +148,9 @@ AIC aims for a non-commercial model, financial transparency and non-personal int
 
 - **[AI internship]** - [**FlyRank AI**]
 
-  [June 2026] - [present]
+  [June 2026] - [end]
 
-  > Currently interning at FlyRank AI as an AI intern, focusing on General AI Fluency.
+  > Completed at FlyRank AI as an AI intern, focusing on General AI Fluency.
 --- 
 
 ## 🕰️ ROAD TO WORLD MEANING INFRASTRUCTURE
