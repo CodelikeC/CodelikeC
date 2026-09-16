@@ -65,6 +65,8 @@ AIC aims for a non-commercial model, financial transparency and non-personal int
 - **Youtube**: [@AdaptiveIntelligenceCircle](https://www.youtube.com/channel/UCFqAmuzpH0mrENjoAfGAj2A)
 
 - **Midnight Forum (Web3 governance and ZK-technology)**: [@MidnightNetwork/TriNguyenIsreal.AIC](https://forum.midnight.network/) 
+
+- **Reddit**: [@r/AIC25](https://reddit.com/r/AIC25)
 ---
 
 ## 🧭 Vision & Philosophy
