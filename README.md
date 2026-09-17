@@ -69,6 +69,8 @@ AIC aims for a non-commercial model, financial transparency and non-personal int
 - **Reddit**: [@r/AIC25](https://reddit.com/r/AIC25)
 
 - **Medium**: [NguyenDucTri](https://medium.com/@ndtribk)
+
+- **Zenodo**: [NguyenDucTri](https://zenodo.org/)
 ---
 
 ## 🧭 Vision & Philosophy
