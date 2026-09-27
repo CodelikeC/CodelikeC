@@ -163,6 +163,13 @@ AIC aims for a non-commercial model, financial transparency and non-personal int
   [June 2026] - [end]
 
   > Completed at FlyRank AI as an AI intern, focusing on General AI Fluency.
+
+- **[System Engineer]** - [**Alignerr (Powered by LabelBox)**]
+
+  [Sep 2026] -[present]
+
+  > Working as Engineer in Alignerr: AI, Computer Science and Software Engineer.
+  > Get paid
 --- 
 
 ## 🕰️ ROAD TO WORLD MEANING INFRASTRUCTURE
