@@ -75,6 +75,8 @@ AIC aims for a non-commercial model, financial transparency and non-personal int
 - **RocketReach.co**: [AdaptiveIntelligenceCircle](https://rocketreach.co/adaptive-intelligence-circle-profile_b6582518cb614d98)
 
 - **YBOX.VN**: [Old_posts_of_AIC](https://ybox.vn/triet-hoc-tuoi-tre/3-bai-hoc-cua-toi-o-cai-tuoi-doi-muoi-698f11003220ef2ea97e8373)
+
+- **MatrixFoundation**: [AIC_Foundation_on_Matrix_Platform/For_Community](https://app.element.io/#/room/#AIC28-04-25:matrix.org) 
 ---
 
 ## 🧭 Vision & Philosophy
