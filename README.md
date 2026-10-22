@@ -49,7 +49,7 @@
 
 Throughout his career, he applied for a software engineer and AI tutor position at xAI (now merged with SpaceX) in July 2025, and was invited to apply for an AI data training position at Invisible Technologies in April 2026. In the same year, he is currently participating in FlyRank AI as an AI Fluency intern. Known for his independent thinking and strong technical skills, he has bet on a future architecture based on Ethical From Kernel, Third Path Absolute, and Zero Donation. He has designed and maintained this system as a multi-tiered and distributed structure, inspired by pioneering founders and deeply expanding the scope of technological history. This work aims for a sustainable, flexible, transparent, selective, and independent ecosystem. In March 2026, he had the honor of participating in an online meeting with United Nations Institute for Training and Research (UNITAR) – as an informal senior advisor.
 
-The Adaptive Intelligence Circle is now present on multiple platforms such as Github, Open Collective, Codeberg, GitLab, YouTube, LinkedIn, Reddit, Substack and Apple Podcast with LeadWithAI (#1 Tech), and has received positive reception from the open-source community as well as attention from major institutions – xAI, Amazon, Meta, Polarity, Invisible Technologies, Alibaba, Forge, Triple AI, FlyRank AI, The IO Foundation – due to its systematic approach and potential to open a new path in the increasingly fierce AI competition of the 21st century.
+The Adaptive Intelligence Circle is now present on multiple platforms such as Github, Open Collective, Codeberg, GitLab, YouTube, LinkedIn, Reddit, Substack and Apple Podcast with LeadWithAI (#1 Tech), and has received positive reception from the open-source community as well as attention from major institutions – xAI, Amazon, Meta, Polarity, Invisible Technologies, Alibaba, Forge, Triple AI, FlyRank AI, The IO Foundation – due to its systematic approach and potential to open a new path in the increasingly fierce AI competition of the 21st century. The official documentation and structural framework for the Adaptive Intelligence Circle Foundation (AIC) have been formally submitted for evaluation as a Public Digital Infrastructure (PDI) under the Digital Public Goods Alliance (DPGA) registry. 
 
 AIC aims for a non-commercial model, financial transparency and non-personal interest to solve fundamental problems that bring positive meaning on a global scale. </p>
 
@@ -77,6 +77,8 @@ AIC aims for a non-commercial model, financial transparency and non-personal int
 - **YBOX.VN**: [Old_posts_of_AIC](https://ybox.vn/triet-hoc-tuoi-tre/3-bai-hoc-cua-toi-o-cai-tuoi-doi-muoi-698f11003220ef2ea97e8373)
 
 - **MatrixFoundation**: [AIC_Foundation_on_Matrix_Platform/For_Community](https://app.element.io/#/room/#AIC28-04-25:matrix.org) 
+
+- **DPGA**: [AIC Foundation](https://app.digitalpublicgoods.net/home)
 ---
 
 ## 🧭 Vision & Philosophy
