@@ -79,6 +79,8 @@ AIC aims for a non-commercial model, financial transparency and non-personal int
 - **MatrixFoundation**: [AIC_Foundation_on_Matrix_Platform/For_Community](https://app.element.io/#/room/#AIC28-04-25:matrix.org) 
 
 - **DPGA**: [AIC Foundation](https://app.digitalpublicgoods.net/home)
+
+- **Lounge.ai**: [Nguyenductri](https://lounge.ai/@codelikec)
 ---
 
 ## 🧭 Vision & Philosophy
