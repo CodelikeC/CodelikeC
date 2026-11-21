@@ -216,7 +216,7 @@ AIC aims for a non-commercial model, financial transparency and non-personal int
 |--------|------------|-------------|
 | **This AI Operating System is teaching technology to think ethically** | 🎧 *Apple Podcast Series by Dr.Tamara Nall* | A deep dive into the vision, ethics, and mission behind AIC |
 | **UNITAR- United Nations Institute for Training and Research** | 🗣️ *Strategic Interview Session* | Sharing how zero-capital innovation can shape ethical technology. Contributed perspectives on AI innovation, ethical leadership, and youth empowerment in global digital transformation. The session aimed to explore collaborative opportunities between UNITAR and emerging tech leaders. |
-| **Building AIC for Humanity (Planned for future)** | WSJ, The Guardian, TechCrunch, Wired, Business Insider, Vice, UN reports, etc.. | Bridging AI, security, and humanistic engineering principles |
+| **Building AIC for Humanity (Planned for future)** | ... | Bridging AI, security, and humanistic engineering principles |
 
 ---
 
